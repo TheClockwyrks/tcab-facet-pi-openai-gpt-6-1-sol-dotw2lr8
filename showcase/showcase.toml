@@ -1,0 +1,11 @@
+[[media]]
+file = "chain.json.gz"
+name = "Pressure becomes a chain"
+
+[[media]]
+file = "board.png"
+name = "A corner ready to fracture"
+
+[[media]]
+file = "title.png"
+name = "The art of the chain"
